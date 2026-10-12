@@ -1,0 +1,107 @@
+# Smart Campus AI — Jury Resources
+
+Welcome to the Smart Campus AI hackathon project evaluation portal.
+
+This page provides the jury with quick access to the project documentation, student dataset, presentation, demo video, live application, and source code.
+
+**Project Title:** Smart Campus AI – AI-Powered Student Analytics and Success Platform
+
+**Team Name:** BYTEXPERTS
+
+**College:** MLWEC
+
+**Team Members:**
+- Gorantla Aasritha
+- Guntupalli Shiva Ramya
+- Deepala Roopa
+- Davuluri Tanmai
+
+## 1. Live Application
+
+[Open Smart Campus AI](https://smart-campus-s.netlify.app/login)
+
+## 2. Student Dataset
+
+[View Student Dataset (Excel)](https://1drv.ms/x/c/815f29a4b09928d6/IQCJFHlS6jE1TJC4Kxi94LMYAZ3wISKoSCjxQS-eEBc5uuQ?e=ImVizR)
+
+## 3. Source Code
+
+[View GitHub Repository](https://github.com/tanmaidavuluri1976/Smart-Campus-AI/tree/main)
+
+## 4. Project Presentation
+
+[View Smart Campus AI PPT](https://drive.google.com/file/d/12G0BSe_D-IwarQ2d22TmrOOODwZhmXSd/view?usp=sharing)
+
+## 5. Demo Video
+
+[Watch Smart Campus AI Demo](https://drive.google.com/file/d/1gbR8jiDgF2GfFRKjOSFb1jyYVKPYb7At/view?usp=sharing)
+
+## 6. Project Overview
+
+Smart Campus AI is an AI-powered student analytics and success platform designed to help educational institutions understand student performance, identify students who may need support, and improve academic performance and placement readiness.
+
+The platform combines student data, including academic performance, attendance, engagement, skills, and placement assessments, to calculate Student Success Scores, identify potential risks, and recommend suitable actions.
+
+### Main Features
+
+- **Student Success Score:** Provides a score intended to summarize student success.
+- **Student Risk Identification:** Helps identify students who may require additional academic or placement support.
+- **Analytics Dashboard:** Presents student-related insights for review.
+- **Role-Based Access:** Provides access roles for Admin, HOD, and Placement Officer.
+
+*The exact scoring formula, risk thresholds, and detailed implementation are pending documentation or verification.*
+
+## 7. Test Access
+
+The following test accounts are available for authorized jury members.
+
+| Role | Username |
+|---|---|
+| Admin | `user.admin` |
+| HOD | `user.hod` |
+| Placement Officer | `user.placement` |
+
+**Test passwords:** Will be shared privately with authorized jury members.
+
+### Login Instructions
+
+1. Open the [Smart Campus AI Live Application](https://smart-campus-s.netlify.app/login).
+2. Enter the credentials provided for your assigned test role.
+3. Explore the available role-specific dashboard.
+4. Review student analytics, Student Success Scores, risk indicators, and intervention recommendations where available.
+
+## 8. Project Documentation
+
+- **Problem Statement:** AI-Powered Student Analytics and Success Platform.
+- **Project Overview:** Project goals, intended users, and major features.
+- **System Architecture:** Pending documentation.
+- **Student Success Score:** Formula, input factors, weights, and thresholds pending documentation.
+- **Demo Guide:** Use the live application and demo video to explore the available features.
+- **Testing and Validation:** Verified test results and known limitations pending documentation.
+- **Responsible AI:** Privacy, fairness, explainability, and human oversight should be documented and verified against the implementation.
+
+## 9. Technology Stack
+
+**Status:** Pending confirmation.
+
+The exact programming languages, frameworks, databases, AI models, and deployment architecture will be documented after verification against the project source code.
+
+## 10. Testing and Evaluation Notes
+
+Jury members are invited to evaluate:
+
+- Student analytics and dashboard usability.
+- Student Success Score presentation and explainability.
+- Student risk identification.
+- Role-specific access and permissions.
+- Dataset relevance and integration.
+- Recommendations and their usefulness for student support.
+
+Actual results should be assessed through the live application. Verified test results have not yet been documented in this README.
+
+## Thank You
+
+Thank you for reviewing **Smart Campus AI — AI-Powered Student Analytics and Success Platform**.
+
+**Team BYTEXPERTS**  
+**MLWEC**
