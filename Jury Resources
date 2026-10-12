@@ -53,21 +53,19 @@ The platform combines student data, including academic performance, attendance, 
 
 ## 7. Test Access
 
-The following test accounts are available for authorized jury members.
+The following test accounts are available for jury evaluation.
 
-| Role | Username |
-|---|---|
-| Admin | `user.admin` |
-| HOD | `user.hod` |
-| Placement Officer | `user.placement` |
-
-**Test passwords:** Will be shared privately with authorized jury members.
+| Role | Username | Password |
+|---|---|---|
+| Admin | `user.admin` | `Admin@123456` |
+| HOD | `user.hod` | `Hod@12345678` |
+| Placement Officer | `user.placement` | `Place@123456` |
 
 ### Login Instructions
 
 1. Open the [Smart Campus AI Live Application](https://smart-campus-s.netlify.app/login).
-2. Enter the credentials provided for your assigned test role.
-3. Explore the available role-specific dashboard.
+2. Enter the username and password for the role you want to test.
+3. Log in and explore the available role-specific dashboard.
 4. Review student analytics, Student Success Scores, risk indicators, and intervention recommendations where available.
 
 ## 8. Project Documentation
@@ -98,6 +96,19 @@ Jury members are invited to evaluate:
 - Recommendations and their usefulness for student support.
 
 Actual results should be assessed through the live application. Verified test results have not yet been documented in this README.
+
+## 11. Pending Resources
+
+The following items can be added as they become available:
+
+- Official detailed problem statement document.
+- System architecture diagram.
+- Confirmed technology stack and setup instructions.
+- Student Success Score formula and calculation examples.
+- Risk identification rules and thresholds.
+- Screenshots of the application dashboard.
+- Verified testing results.
+- Detailed role-permission documentation.
 
 ## Thank You
 
